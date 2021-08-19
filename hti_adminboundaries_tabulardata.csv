@@ -1,0 +1,20 @@
+CATEGORY,GLOBAL_VAR_NAME,VAR_NAME,Artibonite,Centre,Grand'Anse,Nippes,Nord,Nord-Est,Nord-Ouest,Ouest,Sud,Sud-Est
+Capacity,Number of facitilies ,Facility identification,124,55,53,35,108,41,87,380,80,70
+,"Number of generalists, full-time",MEDECINS GENERALISTES,102,79,37,48,192,59,43,805,127,76
+,"Number of lab assistants, full-time",AUXILIAIRE DE LABORATOIRE (Y COMPRIS AIDE),23,16,1,5,15,3,7,65,7,8
+,"Number of lab technicians, full-time",TECHNICIEN DE LABORATOIRE,125,81,48,41,234,55,84,908,158,48
+,"Number of nurses, full-time",INFERMIER,395,141,159,82,575,148,177,2150,418,198
+,"Number of pharmacist, full-time",PHARMACIEN,14,15,2,5,23,4,5,180,15,6
+,Total full-time staff,TOTAL FULL-TIME STAFF,2188,1087,729,423,2045,745,1051,8623,1572,732
+Diagnostic Capacity,Stethoscope*,Other equip:Stethoscope,120,52,50,34,107,40,84,362,78,67
+,Thermometer*,General OPD area: Thermometer available and functioning,111,50,48,34,105,39,83,351,79,65
+,X ray machine*,Equipment available:Digital X-ray not requiring film,11,8,5,5,20,4,4,67,11,5
+Infection Prevention,Improved water source,Water onsite/within 500 meters,46,22,29,8,63,21,35,161,41,34
+,Regular electricity ,Facility connected to central supply electricity,23,25,8,5,37,9,5,214,30,14
+,Soap and running water or else alcohol-based hand disinfectant*,Alcohol based hand rub,106,42,49,33,91,40,81,306,74,63
+Personal Protective Equipment,Latex Gloves,Clean/sterile latex gloves,109,43,49,33,97,39,77,296,68,65
+,Medical Masks,Medical masks,53,23,28,24,61,27,39,148,40,31
+Theraputic Readiness,Inpatient care,Routine in-patient care or Overnight observation,24,13,9,9,31,7,18,99,15,13
+,Number of hospital beds,Number of overnight/in-patient beds,866,678,265,149,933,208,422,3819,704,283
+,Oxygen-filled oxygen cylinders*,Oxygen concentrators available and functioning,13,11,6,6,20,10,10,80,18,14
+,Referral capacity-functional ambulance at facility*,Functional ambulance at facility,30,16,17,9,27,17,21,93,22,15
